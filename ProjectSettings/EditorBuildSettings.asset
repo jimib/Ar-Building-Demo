@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneCityBlock.unity
+    guid: c1820d67b18cb4be5930a80ff69f09fa
+  - enabled: 0
+    path: Assets/Scenes/SceneSingleBuilding.unity
+    guid: c8f70065946aa44689604501b9814a89
   m_configObjects:
     com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c9bc1ef51ce2c43beb82d9b19588d402,
       type: 2}
